@@ -5,7 +5,8 @@
   "description": "hhmao — 全网视频/图集下载文档站 (Docusaurus)",
   "scripts": {
     "start": "docusaurus start",
-    "build": "node translate.js && node gen-llms.js && docusaurus build",
+    "build": "node gen-llms.js && docusaurus build",
+    "build:full": "node translate.js && node gen-llms.js && docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "translate": "node translate.js",
@@ -16,6 +17,7 @@
     "@docusaurus/preset-classic": "^3.7.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "opencc": "^1.1.6",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
