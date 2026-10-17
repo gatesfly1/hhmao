@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# 常用 AI / 抓取机器人
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://hhmao.cn/sitemap.xml

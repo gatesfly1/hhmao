@@ -1,0 +1,149 @@
+/* hhmao 站点主题：复用现有品牌色变量 */
+:root {
+  --hh-bg-0: #0b0d12;
+  --hh-bg-1: #11141b;
+  --hh-bg-2: #161a23;
+  --hh-fg: #e7ebf3;
+  --hh-fg-muted: #9aa3b2;
+  --hh-accent: #6c8cff;
+  --hh-accent-2: #a78bfa;
+  --hh-accent-3: #38d6c8;
+  --hh-radius: 14px;
+  --ifm-color-primary: #6c8cff;
+  --ifm-color-primary-dark: #5072ff;
+  --ifm-color-primary-darker: #3a5fff;
+  --ifm-color-primary-darkest: #2b46d6;
+  --ifm-color-primary-light: #8aa3ff;
+  --ifm-color-primary-lighter: #a9b9ff;
+  --ifm-color-primary-lightest: #cad5ff;
+  --ifm-background-color: var(--hh-bg-0);
+  --ifm-navbar-background-color: rgba(11, 13, 18, 0.85);
+  --ifm-footer-background-color: var(--hh-bg-1);
+  --ifm-card-background-color: var(--hh-bg-2);
+  --ifm-toc-border-color: rgba(255, 255, 255, 0.08);
+  --docusaurus-highlighted-code-line-bg: rgba(108, 140, 255, 0.15);
+}
+
+[data-theme='light'] {
+  --ifm-color-primary: #3a5fff;
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: rgba(255, 255, 255, 0.9);
+}
+
+.hero--primary {
+  background:
+    radial-gradient(
+      1200px 600px at 80% -10%,
+      rgba(108, 140, 255, 0.18),
+      transparent 60%
+    ),
+    radial-gradient(
+      900px 500px at -10% 50%,
+      rgba(56, 214, 200, 0.12),
+      transparent 60%
+    ),
+    linear-gradient(180deg, #f7f9ff 0%, #ffffff 60%);
+  color: #000000;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.navbar__title {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.navbar__logo img,
+.themedComponent--light_NVdE,
+.themedComponent--dark_HOfv {
+  filter: none;
+}
+
+/* 隐藏 404 页里"请联系原始链接来源网站的所有者..."这段 */
+.notFoundContent p:nth-of-type(2) {
+  display: none;
+}
+
+.hh-hero-grid {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+}
+@media (max-width: 768px) {
+  .hh-hero-grid {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 1.5rem !important;
+  }
+}
+
+html,
+body {
+  font-family:
+    'Inter', 'PingFang SC', 'Microsoft YaHei', -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* 导航栏「回到哼哼猫」按钮：与 navbar 链接样式一致 */
+.navbar__back-home,
+.navbar__back-home *,
+.navbar__back-home:link,
+.navbar__back-home:visited,
+.navbar__back-home:hover,
+.navbar__back-home:hover *,
+.navbar__back-home:focus,
+.navbar__back-home:focus *,
+.navbar__back-home:active,
+.navbar__back-home:active *,
+.navbar__item.navbar__back-home .navbar__back-home,
+.navbar__item.navbar__back-home .navbar__back-home * {
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+}
+.navbar__back-home,
+.navbar__back-home:hover,
+.navbar__back-home:focus,
+.navbar__back-home:active {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  transition: color 0.15s ease;
+}
+.navbar__back-home:hover,
+.navbar__back-home:focus,
+.navbar__back-home:active {
+  color: var(--hh-accent, #6c8cff);
+}
+
+/* 首页 hh-card + 索引页 theme-doc-card-container 统一蓝色卡片 */
+.hh-card,
+.theme-doc-card-container {
+  padding: 1.25rem 1.5rem;
+  border-radius: 14px;
+  background: linear-gradient(
+    135deg,
+    #4f7bff 0%,
+    #6c8cff 60%,
+    #8aa3ff 100%
+  );
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  box-shadow: 0 12px 28px -12px rgba(79, 123, 255, 0.45);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+.hh-card:hover,
+.theme-doc-card-container:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 36px -12px rgba(79, 123, 255, 0.55);
+}
+.theme-doc-card-container .theme-doc-card-heading,
+.theme-doc-card-container .cardTitleText_nuEl,
+.theme-doc-card-container .cardDescription_L2fP {
+  color: #ffffff !important;
+}
+.theme-doc-card-container .cardTitleIcon_GcdP {
+  color: rgba(255, 255, 255, 0.85);
+}

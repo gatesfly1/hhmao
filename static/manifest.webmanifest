@@ -1,0 +1,18 @@
+{
+  "name": "哼哼猫去水印",
+  "short_name": "hhmao",
+  "description": "全网视频 / 图集 / 音频 下载",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#6c8cff",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/img/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

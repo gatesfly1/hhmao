@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "哼哼貓去浮水印",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "哼哼貓去浮水印",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.支持平台": {
+    "message": "支援平臺",
+    "description": "Navbar item with label 支援平臺"
+  },
+  "item.label.常见疑问": {
+    "message": "常見問題",
+    "description": "Navbar item with label 常见疑问"
+  },
+  "navbar.backHome.text": {
+    "message": "回到哼哼貓 ↗",
+    "description": "The label of the 'Back to hhmao' navbar link"
+  }
+}

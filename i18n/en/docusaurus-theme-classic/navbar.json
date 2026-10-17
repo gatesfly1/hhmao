@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "hhmao",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "hhmao",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.支持平台": {
+    "message": "Platforms",
+    "description": "Navbar item with label 支持平台"
+  },
+  "item.label.常见疑问": {
+    "message": "FAQ",
+    "description": "Navbar item with label 常见疑问"
+  },
+  "navbar.backHome.text": {
+    "message": "Back to hhmao ↗",
+    "description": "The label of the 'Back to hhmao' navbar link"
+  }
+}

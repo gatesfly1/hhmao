@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Docusaurus build cache and output
+.docusaurus/
+build/
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+
+# Backup (kept locally, not for repo)
+backup-html-original/

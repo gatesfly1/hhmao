@@ -1,0 +1,120 @@
+import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+
+const sidebars: SidebarsConfig = {
+  mainSidebar: [
+    'intro',
+    {
+      type: 'category',
+      label: '快速上手',
+      collapsed: false,
+      items: ['quickstart/single-link', 'quickstart/batch', 'quickstart/md5', 'quickstart/audio-extract'],
+    },
+    {
+      type: 'category',
+      label: '客户端',
+      items: ['client/windows', 'client/mac', 'cli'],
+    },
+    {
+      type: 'category',
+      label: '功能特性',
+      items: [
+        'features/sniffer',
+        'features/playlist-channel',
+        'features/coverage',
+        'features/quality',
+        'features/audio-extract',
+        'features/batch-links',
+      ],
+    },
+    {
+      type: 'category',
+      label: '视频下载',
+      link: {type: 'generated-index', slug: 'video-downloads'},
+      items: [
+        'video-downloads/bulk-video-downloader',
+        'video-downloads/how-to-download-ifunny-videos',
+        'video-downloads/sora2-watermark-remover',
+        'video-downloads/batch-download-profile-playlist',
+      ],
+    },
+    {
+      type: 'category',
+      label: '直播录制',
+      link: {type: 'generated-index', slug: 'livestream-recording'},
+      items: [
+        'livestream-recording/how-to-record-twitch-live-streams',
+        'livestream-recording/how-to-record-kick-live-streams',
+      ],
+    },
+    {
+      type: 'category',
+      label: '浏览器插件',
+      link: {type: 'generated-index', slug: 'browser-extension'},
+      items: [
+        'browser-extension/install-meowload-extension',
+        'browser-extension/download-ecommerce-product-videos',
+        'browser-extension/download-1688-product-videos',
+        'browser-extension/download-wechat-article-videos',
+        'browser-extension/batch-save-xiaohongshu-notes',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'YouTube',
+      link: {type: 'generated-index', slug: 'youtube'},
+      items: [
+        'youtube/youtube-subtitles-download',
+        'youtube/download-youtube-with-meowload-browser-extension',
+        'youtube/how-to-download-a-youtube-playlist',
+        'youtube/youtube-network-troubleshooting',
+      ],
+    },
+    {
+      type: 'category',
+      label: '支持的平台',
+      collapsed: false,
+      items: [
+        'platforms/youtube-video-downloader',
+        'platforms/bilibili-video-downloader',
+        'platforms/twitter-video-downloader',
+        'platforms/tiktok-video-downloader',
+        'platforms/instagram-video-downloader',
+        'platforms/facebook-video-downloader',
+        'platforms/threads-video-downloader',
+        'platforms/sora-video-downloader',
+        'platforms/reddit-video-downloader',
+        'platforms/pinterest-video-downloader',
+        'platforms/twitch-video-downloader',
+        'platforms/soundcloud-video-downloader',
+        'platforms/snapchat-video-downloader',
+        'platforms/vimeo-video-downloader',
+        'platforms/tumblr-video-downloader',
+        'platforms/dailymotion-video-downloader',
+        'platforms/likee-video-downloader',
+        'platforms/linkedin-video-downloader',
+        'platforms/vk-video-downloader',
+        'platforms/weibo-video-downloader',
+        'platforms/xiaohongshu-video-downloader',
+      ],
+    },
+    {
+      type: 'category',
+      label: '常见疑问',
+      items: [
+        'faq/watermark',
+        'faq/install',
+        'faq/quality',
+        'faq/album-audio',
+        'faq/private',
+        'faq/expiry',
+        'faq/batch',
+        'faq/failure',
+        'faq/account-and-membership-faq',
+        'faq/keep-downloaded-files-in-order',
+      ],
+    },
+    'supported-websites',
+  ],
+};
+
+export default sidebars;

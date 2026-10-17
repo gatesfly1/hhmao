@@ -1,0 +1,230 @@
+# hhmao (哼哼猫去水印)
+
+> 全网视频 / 图集 / 音频 下载。从 1000+ 网站一键下载原始画质视频、图集和音频。免费、无需注册。
+
+## 站点元信息
+
+- 品牌：哼哼猫去水印（hhmao）
+- 域名：https://hhmao.cn
+- 语言：简体中文（zh-CN）、繁體中文（zh-TW）、English（en）
+- sitemap：https://hhmao.cn/sitemap.xml
+- llms.txt：https://hhmao.cn/llms.txt
+
+## 主要功能
+
+- 单个链接提取：粘贴一条帖子链接，下载原始画质视频、图集或音频
+- 多链接批量提取：一次粘贴最多 20 条帖子链接，系统自动解析
+- 主页批量：给定作者主页，按页取回其全部公开内容
+- 视频转音频：在线或本地视频一键提取音轨，输出 MP3 / M4A / WAV
+- 批量修改 MD5：重写文件哈希，绕过平台重复识别
+- 资源嗅探：内置浏览器嗅探任意网页音视频资源
+
+## 介绍
+
+### [介绍](https://hhmao.cn/intro)
+
+hhmao 是全网视频 / 图集 / 音频下载工具，覆盖 YouTube、Bilibili、Twitter、TikTok、Instagram 等 1000+ 站点。粘贴链接即可下载原始画质视频、图集或音频，无需注册。
+
+## 快速上手
+
+### [视频转音频](https://hhmao.cn/quickstart/audio-extract)
+
+支持在线视频一键提取音轨，或对本地视频做转码，输出 MP3 / M4A / WAV 等格式。
+
+### [多链接批量提取](https://hhmao.cn/quickstart/batch)
+
+一次粘贴最多 20 条帖子链接，系统自动按顺序解析并排队下载图集与视频。
+
+### [批量修改 MD5](https://hhmao.cn/quickstart/md5)
+
+给已下载的视频/图集文件重写哈希值，避免被平台识别为重复上传。
+
+### [单个链接提取](https://hhmao.cn/quickstart/single-link)
+
+粘贴一条帖子链接，系统自动解析后可下载原始画质视频、图集或音频。
+
+## 客户端
+
+### [macOS 客户端](https://hhmao.cn/client/mac)
+
+适用于 macOS 10.13 及以上。
+
+### [Windows 客户端](https://hhmao.cn/client/windows)
+
+适用于 Win 10（64 位）及以上。
+
+## 功能特性
+
+### [视频提取音频](https://hhmao.cn/features/audio-extract)
+
+支持在线或本地视频一键提取音轨，快速转为 MP3 或其他音频格式。
+
+### [多链接批量提取](https://hhmao.cn/features/batch-links)
+
+支持粘贴最多 20 条帖子链接，系统自动提取资源，批量下载图集与视频。
+
+### [全网覆盖](https://hhmao.cn/features/coverage)
+
+支持 YouTube、X、Facebook、TikTok、VKontakte、Instagram、rednote 等主流及小众平台，涵盖视频、音频、图集等类型。
+
+### [播放列表 / 频道下载](https://hhmao.cn/features/playlist-channel)
+
+支持 YouTube、Instagram、Twitter、TikTok、Bilibili 等平台作者主页、频道、播放列表和 Hashtag 列表批量解析下载，自动获取全部作品。
+
+### [超清画质](https://hhmao.cn/features/quality)
+
+默认下载最高画质，支持 8K、4K、1080P 多分辨率选择，自由切换，适配剪辑、观影等高质量场景，画质无损保存。
+
+### [万能音视频嗅探](https://hhmao.cn/features/sniffer)
+
+内置浏览器支持任意网页资源嗅探，自动识别音乐与视频链接，支持一键批量下载，真正实现能播就能下。
+
+## 支持的平台
+
+### [Bilibili 下载](https://hhmao.cn/platforms/bilibili-video-downloader)
+
+从 Bilibili 下载视频 / 音频 / 播放列表，最高支持原始画质，免费、无需注册。
+
+### [Dailymotion 下载](https://hhmao.cn/platforms/dailymotion-video-downloader)
+
+从 Dailymotion 下载视频 / 音频，最高支持原始画质，免费、无需注册。
+
+### [Facebook 下载](https://hhmao.cn/platforms/facebook-video-downloader)
+
+从 Facebook 下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [Instagram 下载](https://hhmao.cn/platforms/instagram-video-downloader)
+
+从 Instagram 下载视频 / 图集 / Reels / Stories，最高支持原始画质，免费、无需注册。
+
+### [Likee 下载](https://hhmao.cn/platforms/likee-video-downloader)
+
+从 Likee 下载视频，最高支持原始画质，免费、无需注册。
+
+### [LinkedIn 下载](https://hhmao.cn/platforms/linkedin-video-downloader)
+
+从 LinkedIn 下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [Pinterest 下载](https://hhmao.cn/platforms/pinterest-video-downloader)
+
+从 Pinterest 下载图集 / 视频，最高支持原始画质，免费、无需注册。
+
+### [Reddit 下载](https://hhmao.cn/platforms/reddit-video-downloader)
+
+从 Reddit 下载视频 / 图集 / GIF，最高支持原始画质，免费、无需注册。
+
+### [Snapchat 下载](https://hhmao.cn/platforms/snapchat-video-downloader)
+
+从 Snapchat 下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [Sora 下载](https://hhmao.cn/platforms/sora-video-downloader)
+
+从 Sora 下载视频，最高支持原始画质，免费、无需注册。
+
+### [SoundCloud 下载](https://hhmao.cn/platforms/soundcloud-video-downloader)
+
+从 SoundCloud 下载音频 / 播放列表，最高支持原始音质，免费、无需注册。
+
+### [Threads 下载](https://hhmao.cn/platforms/threads-video-downloader)
+
+从 Threads 下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [TikTok 下载](https://hhmao.cn/platforms/tiktok-video-downloader)
+
+从 TikTok 下载视频 / 图集 / 音频，最高支持原始画质，免费、无需注册。
+
+### [Tumblr 下载](https://hhmao.cn/platforms/tumblr-video-downloader)
+
+从 Tumblr 下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [Twitch 下载](https://hhmao.cn/platforms/twitch-video-downloader)
+
+从 Twitch 下载视频 / 片段，最高支持原始画质，免费、无需注册。
+
+### [X / Twitter 下载](https://hhmao.cn/platforms/twitter-video-downloader)
+
+从 X / Twitter 下载视频 / 图集 / GIF，最高支持原始画质，免费、无需注册。
+
+### [Vimeo 下载](https://hhmao.cn/platforms/vimeo-video-downloader)
+
+从 Vimeo 下载视频 / 音频，最高支持原始画质，免费、无需注册。
+
+### [VK 下载](https://hhmao.cn/platforms/vk-video-downloader)
+
+从 VK 下载视频 / 图集 / 音频，最高支持原始画质，免费、无需注册。
+
+### [微博下载](https://hhmao.cn/platforms/weibo-video-downloader)
+
+从微博下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [小红书下载](https://hhmao.cn/platforms/xiaohongshu-video-downloader)
+
+从小红书下载视频 / 图集，最高支持原始画质，免费、无需注册。
+
+### [YouTube 下载](https://hhmao.cn/platforms/youtube-video-downloader)
+
+从 YouTube 下载视频 / 音频 / 播放列表 / 频道，最高支持原始画质，免费、无需注册。
+
+## 常见疑问
+
+### [账号和会员常见问题](https://hhmao.cn/faq/account-and-membership-faq)
+
+哼哼猫账号登录限制、会员版本选择、密码错误处理等常见问题。
+
+### [除了视频，图集和音频也能提取吗？](https://hhmao.cn/faq/album-audio)
+
+可以。图集会把每一张原图单独列出，笔记或帖子里附带的背景音乐也会作为独立的音频条目出现，不必自己去截取。
+
+### [一次可以处理多个链接吗？](https://hhmao.cn/faq/batch)
+
+可以。多链接提取支持一次粘贴一批地址排队处理；主页批量则是给定一个作者主页，按页把他公开发布的内容取回来。
+
+### [提取到的下载链接有有效期吗？](https://hhmao.cn/faq/expiry)
+
+有。列出的是源站直链，通常几十分钟到几小时就会失效，解析完请尽快下载。
+
+### [提取不成功时，常见原因有哪些？](https://hhmao.cn/faq/failure)
+
+按出现频率大致是：
+
+### [需要安装软件或浏览器插件吗？](https://hhmao.cn/faq/install)
+
+不需要。粘贴链接就能用，浏览器直接完成。
+
+### [批量下载的文件如何保持顺序？](https://hhmao.cn/faq/keep-downloaded-files-in-order)
+
+批量下载时保持文件顺序的两种方式：修改时间排序、文件名前加序号。
+
+### [私密账号、仅会员可见的内容能提取吗？](https://hhmao.cn/faq/private)
+
+不能。需要登录、需要关注、需要付费或会员身份才能看到的内容，我们同样看不到，这类链接会直接返回失败而不是给你一个残缺的文件。
+
+### [可以自己选清晰度和格式吗？](https://hhmao.cn/faq/quality)
+
+可以。解析完成后会列出该资源全部可用的清晰度档位与音视频格式，你挑哪一档就下哪一档。
+
+### [提取出来的视频带水印吗？](https://hhmao.cn/faq/watermark)
+
+不带。我们拿到的是源站的原始文件，不是录屏或二次压制，画面上不会叠加任何平台水印或我们自己的标记。
+
+## 总览
+
+### [支持的网站](https://hhmao.cn/supported-websites)
+
+覆盖全网主流平台，轻松下载所有视频、音频与图片。
+
+## 支持的平台
+
+YouTube、Bilibili、Twitter / X、TikTok、Instagram、Facebook、Threads、Sora、Reddit、Pinterest、Twitch、SoundCloud、Snapchat、Vimeo、Tumblr、Dailymotion、Likee、LinkedIn、VKontakte、微博、小红书 等 1000+ 站点。
+
+## 客户端
+
+- Windows 10+ 桌面客户端：内置浏览器、批量下载、资源嗅探、断点续传
+- macOS 10.13+ 桌面客户端：同上
+
+## 限制
+
+- 私密账号、需登录或会员可见内容无法解析
+- 地区限制内容可能失败
+- 解析得到的源站直链通常几十分钟到几小时失效，需尽快下载
+- 失败时返回错误而非残缺文件

@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.快速上手": {
+    "message": "Quickstart",
+    "description": "The label for category '快速上手' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.客户端": {
+    "message": "Client",
+    "description": "The label for category '客户端' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.功能特性": {
+    "message": "Features",
+    "description": "The label for category '功能特性' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.支持的平台": {
+    "message": "Supported Platforms",
+    "description": "The label for category '支持的平台' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.常见疑问": {
+    "message": "FAQ",
+    "description": "The label for category '常见疑问' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.视频下载": {
+    "message": "Video Downloads",
+    "description": "The label for category '视频下载' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.直播录制": {
+    "message": "Live Recording",
+    "description": "The label for category '直播录制' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.浏览器插件": {
+    "message": "Browser Extension",
+    "description": "The label for category '浏览器插件' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.YouTube": {
+    "message": "YouTube",
+    "description": "The label for category 'YouTube' in sidebar 'mainSidebar'"
+  }
+}
