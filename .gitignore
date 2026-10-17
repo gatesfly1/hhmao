@@ -18,3 +18,7 @@ build/
 
 # Backup (kept locally, not for repo)
 backup-html-original/
+
+# Local helper scripts
+git-push.ps1
+git-verify.ps1
