@@ -251,7 +251,7 @@ npx docusaurus swizzle @docusaurus/theme-classic NavbarItem/ComponentTypes --wra
 
 | 命令 | 作用 |
 |---|---|
-| `npm run start` | dev server（http://localhost:3000） |
+| `npm run start` | dev server（`http://localhost:3000`） |
 | `npm run build` | 构建生产静态文件到 `build/` |
 | `npm run clear` | 清除 `.docusaurus` 缓存 |
 | `npm run serve` | 预览 `build/` 产物 |
