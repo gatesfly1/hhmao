@@ -17,4 +17,4 @@ For Windows 10 (64-bit) and above.
 
 ## Install
 
-Get the latest installer from the [download page](/download) and follow the prompts.
+Get the latest installer from the [download page](https://hhmao.cn/app) and follow the prompts.

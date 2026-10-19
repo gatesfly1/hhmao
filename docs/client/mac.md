@@ -17,4 +17,4 @@ sidebar_position: 2
 
 ## 安装
 
-前往 [下载页面](/download) 获取最新 `.dmg` 安装包，拖入 Applications 即可。
+前往 [下载页面](https://hhmao.cn/app) 获取最新 `.dmg` 安装包，拖入 Applications 即可。

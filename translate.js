@@ -241,7 +241,7 @@ For Windows 10 (64-bit) and above.
 
 ## Install
 
-Get the latest installer from the [download page](/download) and follow the prompts.
+Get the latest installer from the [download page](https://hhmao.cn/app) and follow the prompts.
 `,
   'client/mac.md': `---
 title: macOS client
@@ -262,7 +262,7 @@ For macOS 10.13 and above.
 
 ## Install
 
-Get the latest \`.dmg\` from the [download page](/download) and drag it into Applications.
+Get the latest `.dmg` from the [download page](https://hhmao.cn/app) and drag it into Applications.
 `,
 };
 

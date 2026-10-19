@@ -17,4 +17,4 @@ sidebar_position: 1
 
 ## 安裝
 
-前往 [下載頁面](/download) 獲取最新安裝包，按提示完成安裝。
+前往 [下載頁面](https://hhmao.cn/app) 獲取最新安裝包，按提示完成安裝。

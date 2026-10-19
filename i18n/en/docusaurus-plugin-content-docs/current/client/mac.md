@@ -17,4 +17,4 @@ For macOS 10.13 and above.
 
 ## Install
 
-Get the latest `.dmg` from the [download page](/download) and drag it into Applications.
+Get the latest `.dmg` from the [download page](https://hhmao.cn/app) and drag it into Applications.
