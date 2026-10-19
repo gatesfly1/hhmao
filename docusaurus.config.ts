@@ -126,8 +126,8 @@ const config: Config = {
         {
           title: '下载',
           items: [
-            {label: 'Windows 客户端', to: '/download'},
-            {label: 'Mac 客户端', to: '/download'},
+            {label: 'Windows 客户端', to: '/client/windows'},
+            {label: 'Mac 客户端', to: '/client/mac'},
           ],
         },
         {
