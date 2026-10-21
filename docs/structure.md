@@ -189,7 +189,7 @@ zh-CN 是**默认 locale**，无需 i18n 目录；其他 locale 都通过 `<Tran
 
 | 字段 | 说明 |
 |---|---|
-| `url` / `baseUrl` | `https://hhmao.cn/` / `/` |
+| `url` / `baseUrl` | `https://docs.hhmao.cn/` / `/` |
 | `i18n.defaultLocale` | `zh-CN` |
 | `i18n.locales` | `['zh-CN', 'zh-TW', 'en']` |
 | `presets.classic.docs.routeBasePath` | `/`（首页即文档根） |
@@ -260,9 +260,9 @@ npx docusaurus swizzle @docusaurus/theme-classic NavbarItem/ComponentTypes --wra
 
 | URL | locale |
 |---|---|
-| `https://hhmao.cn/` | zh-CN（默认） |
-| `https://hhmao.cn/en/` | English |
-| `https://hhmao.cn/zh-TW/` | 繁體中文 |
+| `https://docs.hhmao.cn/` | zh-CN（默认） |
+| `https://docs.hhmao.cn/en/` | English |
+| `https://docs.hhmao.cn/zh-TW/` | 繁體中文 |
 
 Docusaurus 自动按 i18n.json 中的 `baseUrl` 路由。
 

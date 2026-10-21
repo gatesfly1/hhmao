@@ -4,7 +4,7 @@ const path = require('path');
 
 const ROOT = process.cwd();
 const DOCS = path.join(ROOT, 'docs');
-const SITE = 'https://hhmao.cn';
+const SITE = 'https://docs.hhmao.cn';
 
 function readMd(file) {
   const raw = fs.readFileSync(file, 'utf8');
@@ -116,10 +116,10 @@ lines.push('');
 lines.push('## 站点元信息');
 lines.push('');
 lines.push('- 品牌：哼哼猫去水印（hhmao）');
-lines.push('- 域名：https://hhmao.cn');
+lines.push(`- 域名：${SITE}`);
 lines.push('- 语言：简体中文（zh-CN）、繁體中文（zh-TW）、English（en）');
-lines.push('- sitemap：https://hhmao.cn/sitemap.xml');
-lines.push('- llms.txt：https://hhmao.cn/llms.txt');
+lines.push(`- sitemap：${SITE}/sitemap.xml`);
+lines.push(`- llms.txt：${SITE}/llms.txt`);
 lines.push('');
 lines.push('## 主要功能');
 lines.push('');

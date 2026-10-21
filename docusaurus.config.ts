@@ -1,12 +1,14 @@
 import type {Config} from '@docusaurus/types';
 import {themes as prismThemes} from 'prism-react-renderer';
 
+const SITE_URL = 'https://docs.hhmao.cn';
+
 const config: Config = {
   title: '哼哼猫去水印',
   tagline: '全网视频 / 图集 / 音频 下载',
   favicon: 'img/logo.svg',
 
-  url: 'https://hhmao.cn',
+  url: SITE_URL,
   baseUrl: '/',
 
   organizationName: 'hhmao',
@@ -26,8 +28,8 @@ const config: Config = {
         '@type': 'Organization',
         name: '哼哼猫去水印',
         alternateName: 'hhmao',
-        url: 'https://hhmao.cn',
-        logo: 'https://hhmao.cn/img/logo.svg',
+        url: SITE_URL,
+        logo: `${SITE_URL}/img/logo.svg`,
       }),
     },
     {
@@ -38,7 +40,7 @@ const config: Config = {
         '@type': 'WebSite',
         name: '哼哼猫去水印',
         description: '全网视频 / 图集 / 音频 下载',
-        url: 'https://hhmao.cn',
+        url: SITE_URL,
         inLanguage: ['zh-CN', 'zh-TW', 'en'],
       }),
     },
@@ -53,7 +55,7 @@ const config: Config = {
         operatingSystem: 'Windows 10+, macOS 10.13+',
         description: '支持从 1000+ 网站下载原始画质视频、图集和音频，免费、无需注册。',
         offers: {'@type': 'Offer', price: '0', priceCurrency: 'CNY'},
-        url: 'https://hhmao.cn',
+        url: SITE_URL,
       }),
     },
   ],

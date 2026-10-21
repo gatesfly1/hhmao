@@ -31,7 +31,7 @@ export default function DocItemMetadata(): React.ReactElement {
           ? 'Weibo'
           : platformName;
 
-  const url = `https://hhmao.cn/${id.replace(/^platforms\//, 'platforms/')}`;
+  const url = `https://docs.hhmao.cn/${id}`;
 
   const howTo = isPlatform
     ? {
