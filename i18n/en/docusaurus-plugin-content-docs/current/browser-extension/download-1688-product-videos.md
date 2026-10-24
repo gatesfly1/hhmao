@@ -3,6 +3,7 @@ title: How to download 1688 product videos
 sidebar_label: 1688 product videos
 sidebar_position: 3
 description: One-click download the original HD videos on 1688 product pages using the browser extension.
+keywords: ["1688 product video download", "Alibaba product video download", "1688 listing video", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to download 1688 product videos

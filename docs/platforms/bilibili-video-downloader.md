@@ -3,6 +3,7 @@ title: Bilibili 下载
 sidebar_label: Bilibili
 sidebar_position: 2
 description: 从 Bilibili 下载视频 / 音频 / 播放列表，最高支持原始画质，免费、无需注册。
+keywords: ["Bilibili视频下载", "Bilibili下载", "B站视频下载", "哔哩哔哩下载", "Bilibili下载器", "B站缓存视频下载", "B站音频提取", "B站番剧下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 Bilibili 视频 / 图集

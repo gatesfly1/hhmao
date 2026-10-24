@@ -3,6 +3,7 @@ title: Download from YouTube
 sidebar_label: YouTube
 sidebar_position: 1
 description: Download videos, albums, and audio from YouTube — original quality, free, no signup.
+keywords: ["YouTube video download", "download from YouTube", "YouTube video downloader", "YouTube audio downloader", "YT download", "YouTube mp3 download", "YouTube subtitle download", "YouTube batch download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from YouTube

@@ -1,5 +1,6 @@
 ---
 title: Do extracted download links expire?
+keywords: ["do download links expire", "link expiration", "direct link invalid", "how long links last", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 6
 ---
 

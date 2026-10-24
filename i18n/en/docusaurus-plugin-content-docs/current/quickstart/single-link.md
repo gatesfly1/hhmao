@@ -1,5 +1,6 @@
 ---
 title: Single link extraction
+keywords: ["single link download", "paste link to download", "download from a single URL", "how to download a video link", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 1
 ---
 

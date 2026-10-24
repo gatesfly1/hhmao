@@ -3,6 +3,7 @@ title: Sora2 AI watermark removal (archived)
 sidebar_label: Sora2 remover (archived)
 sidebar_position: 3
 description: This feature has been retired. OpenAI no longer offers Sora 2 — page kept for archival only.
+keywords: ["Sora2 watermark remover", "remove watermark from AI video", "Sora 2 video download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Sora2 AI video watermark removal (local save)

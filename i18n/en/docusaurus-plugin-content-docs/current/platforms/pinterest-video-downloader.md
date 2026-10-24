@@ -3,6 +3,7 @@ title: Download from Pinterest
 sidebar_label: Pinterest
 sidebar_position: 1
 description: Download videos, albums, and audio from Pinterest — original quality, free, no signup.
+keywords: ["Pinterest video download", "download from Pinterest", "Pinterest video downloader", "Pinterest image downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Pinterest

@@ -3,6 +3,7 @@ title: 如何录制 Kick 直播？
 sidebar_label: 录制 Kick 直播
 sidebar_position: 2
 description: 使用哼哼猫录制 Kick 直播以及下载已发布视频的操作流程。
+keywords: ["录制Kick直播", "Kick直播录制", "Kick直播回放下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 如何录制 Kick 直播？

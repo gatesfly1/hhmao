@@ -3,6 +3,7 @@ title: How to download a YouTube playlist
 sidebar_label: YouTube playlist
 sidebar_position: 3
 description: Batch-download every video in a YouTube playlist using the desktop client.
+keywords: ["download YouTube playlist", "batch download YouTube videos", "YouTube collection download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to download a YouTube playlist

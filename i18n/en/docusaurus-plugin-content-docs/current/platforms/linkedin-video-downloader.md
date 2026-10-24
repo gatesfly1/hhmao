@@ -3,6 +3,7 @@ title: Download from LinkedIn
 sidebar_label: LinkedIn
 sidebar_position: 1
 description: Download videos, albums, and audio from LinkedIn — original quality, free, no signup.
+keywords: ["LinkedIn video download", "download from LinkedIn", "LinkedIn video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from LinkedIn

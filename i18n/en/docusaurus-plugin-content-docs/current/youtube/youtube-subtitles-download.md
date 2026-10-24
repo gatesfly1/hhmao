@@ -3,6 +3,7 @@ title: YouTube subtitle download — multi-language, multi-format
 sidebar_label: YouTube subtitles
 sidebar_position: 1
 description: 'Two ways to download YouTube subtitles: desktop app (SRT) and the web tool (SRT / VTT / TTML / JSON3 / SRV, etc).'
+keywords: ["YouTube subtitle download", "download SRT subtitles", "VTT subtitle download", "multi language subtitles", "TTML subtitle download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # YouTube subtitle download — multi-language, multi-format

@@ -3,6 +3,7 @@ title: MeowLoad CLI 命令行工具
 sidebar_label: CLI 命令行
 sidebar_position: 1
 description: 哼哼猫自 v3.9.9 起新增 meowload CLI，可在终端下载视频、音频、图片、直播流、字幕等资源。
+keywords: ["MeowLoad CLI", "命令行下载工具", "终端下载视频", "CLI视频下载", "命令行批量下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # MeowLoad CLI 命令行工具

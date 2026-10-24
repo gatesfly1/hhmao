@@ -3,6 +3,7 @@ title: How to keep downloaded files in order?
 sidebar_label: Keep file order
 sidebar_position: 2
 description: 'Two ways to preserve order in batch downloads: sort by modification time or prefix filenames with sequence numbers.'
+keywords: ["keep downloaded files in order", "batch download sorting", "file naming order", "sort downloaded videos", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to keep downloaded files in order?

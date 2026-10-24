@@ -3,6 +3,7 @@ title: How to download videos in WeChat articles
 sidebar_label: WeChat article videos
 sidebar_position: 4
 description: Use the browser extension to detect and download videos embedded in WeChat public-account articles.
+keywords: ["WeChat article video download", "WeChat official account video", "extract video from WeChat article", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to download videos in WeChat articles

@@ -3,6 +3,7 @@ title: Likee 下载
 sidebar_label: Likee
 sidebar_position: 7
 description: 从 Likee 下载视频，最高支持原始画质，免费、无需注册。
+keywords: ["Likee视频下载", "Likee下载", "likee下载器", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 Likee 视频

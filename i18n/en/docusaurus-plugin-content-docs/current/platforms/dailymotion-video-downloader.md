@@ -3,6 +3,7 @@ title: Download from Dailymotion
 sidebar_label: Dailymotion
 sidebar_position: 1
 description: Download videos, albums, and audio from Dailymotion — original quality, free, no signup.
+keywords: ["Dailymotion video download", "download from Dailymotion", "Dailymotion video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Dailymotion

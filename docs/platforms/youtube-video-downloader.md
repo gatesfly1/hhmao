@@ -3,6 +3,7 @@ title: YouTube 下载
 sidebar_label: YouTube
 sidebar_position: 22
 description: 从 YouTube 下载视频 / 音频 / 播放列表 / 频道，最高支持原始画质，免费、无需注册。
+keywords: ["YouTube视频下载", "YouTube下载", "YouTube下载器", "YouTube音频下载", "YT下载", "YouTube mp3下载", "YouTube字幕下载", "YouTube批量下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 YouTube 视频 / 音频

@@ -3,6 +3,7 @@ title: SoundCloud 下載
 sidebar_label: SoundCloud
 sidebar_position: 13
 description: 從 SoundCloud 下載音頻 / 播放列表，最高支持原始音質，免費、無需註冊。
+keywords: ["SoundCloud影片下載", "SoundCloud下載", "SoundCloud音樂下載", "soundcloud下載器", "SC音樂下載", "影片下載", "下載影片", "線上下載", "免費下載", "全網下載", "影片下載器", "線上影片下載", "下載工具", "批次下載", "下載連結", "音訊下載", "音訊擷取", "無水印下載", "線上影片擷取工具", "批次下載影片", "批次修改MD5", "影片字幕下載", "直播錄製", "圖集下載", "去水印", "hhmao", "哼哼貓去水印"]
 ---
 
 # 下載 SoundCloud 音頻

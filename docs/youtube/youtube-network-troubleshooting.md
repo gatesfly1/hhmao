@@ -3,6 +3,7 @@ title: 下载 YouTube 视频时遇到网络问题怎么解决？
 sidebar_label: 网络问题排查
 sidebar_position: 4
 description: 使用哼哼猫内置的网络测试排查并解决下载 YouTube、Instagram、Twitter 时的超时问题。
+keywords: ["YouTube下载失败", "下载超时怎么办", "网络问题排查", "YouTube连接不上", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 YouTube 视频时遇到网络问题怎么解决？

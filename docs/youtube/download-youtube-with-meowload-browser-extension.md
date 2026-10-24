@@ -3,6 +3,7 @@ title: 使用哼哼猫浏览器插件下载 YouTube 视频
 sidebar_label: 插件下载 YouTube
 sidebar_position: 2
 description: 使用浏览器插件绕过 403 错误，下载年龄限制与地区限制的 YouTube 视频。
+keywords: ["浏览器插件下载YouTube", "绕过403下载YouTube", "年龄限制视频下载", "地区限制视频下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 使用哼哼猫浏览器插件下载 YouTube 视频

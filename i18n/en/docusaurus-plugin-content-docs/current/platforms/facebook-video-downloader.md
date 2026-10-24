@@ -3,6 +3,7 @@ title: Download from Facebook
 sidebar_label: Facebook
 sidebar_position: 1
 description: Download videos, albums, and audio from Facebook — original quality, free, no signup.
+keywords: ["Facebook video download", "download from Facebook", "Facebook video downloader", "FB reels download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Facebook

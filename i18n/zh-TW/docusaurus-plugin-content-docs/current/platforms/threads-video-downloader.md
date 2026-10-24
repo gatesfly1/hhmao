@@ -3,6 +3,7 @@ title: Threads 下載
 sidebar_label: Threads
 sidebar_position: 14
 description: 從 Threads 下載視頻 / 圖集，最高支持原始畫質，免費、無需註冊。
+keywords: ["Threads影片下載", "Threads下載", "threads下載器", "影片下載", "下載影片", "線上下載", "免費下載", "全網下載", "影片下載器", "線上影片下載", "下載工具", "批次下載", "下載連結", "音訊下載", "音訊擷取", "無水印下載", "線上影片擷取工具", "批次下載影片", "批次修改MD5", "影片字幕下載", "直播錄製", "圖集下載", "去水印", "hhmao", "哼哼貓去水印"]
 ---
 
 # 下載 Threads 視頻 / 圖集

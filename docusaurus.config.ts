@@ -17,7 +17,6 @@ const config: Config = {
   headTags: [
     {tagName: 'link', attributes: {rel: 'manifest', href: '/manifest.webmanifest'}},
     {tagName: 'link', attributes: {rel: 'alternate', type: 'text/plain', href: '/llms.txt', title: 'hhmao LLM 摘要'}},
-    {tagName: 'meta', attributes: {name: 'robots', content: 'index,follow,max-image-preview:large,max-snippet:-1'}},
     {tagName: 'meta', attributes: {name: 'googlebot', content: 'index,follow'}},
     {tagName: 'meta', attributes: {name: 'referrer', content: 'strict-origin-when-cross-origin'}},
     {

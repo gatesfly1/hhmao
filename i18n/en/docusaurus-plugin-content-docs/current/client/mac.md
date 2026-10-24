@@ -1,5 +1,6 @@
 ---
 title: macOS client
+keywords: ["Mac downloader", "macOS video download software", "Mac desktop client", "Apple video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 2
 ---
 

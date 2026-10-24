@@ -3,6 +3,7 @@ title: Download from rednote
 sidebar_label: rednote
 sidebar_position: 1
 description: Download videos, albums, and audio from rednote — original quality, free, no signup.
+keywords: ["Xiaohongshu video download", "download from Xiaohongshu", "Xiaohongshu video downloader", "RedNote download", "Xiaohongshu image downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from rednote

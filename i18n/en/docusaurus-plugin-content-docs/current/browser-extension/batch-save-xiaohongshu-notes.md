@@ -3,6 +3,7 @@ title: Batch-save a Xiaohongshu author's videos, images and captions
 sidebar_label: Batch save Xiaohongshu
 sidebar_position: 5
 description: One-click batch download all videos, images and captions on a Xiaohongshu creator's profile.
+keywords: ["batch save Xiaohongshu notes", "Xiaohongshu profile bulk download", "save RedNote posts in batch", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to batch-save videos, images and captions from a Xiaohongshu author profile?

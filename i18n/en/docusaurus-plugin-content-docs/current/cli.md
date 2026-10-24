@@ -3,6 +3,7 @@ title: MeowLoad CLI
 sidebar_label: CLI
 sidebar_position: 1
 description: Since v3.9.9, Meowload ships the meowload CLI for downloading videos, audio, images, live streams, and subtitles from the terminal.
+keywords: ["MeowLoad CLI", "command line video downloader", "download video from terminal", "CLI batch downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # MeowLoad CLI

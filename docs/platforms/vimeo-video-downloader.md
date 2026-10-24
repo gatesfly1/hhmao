@@ -3,6 +3,7 @@ title: Vimeo 下载
 sidebar_label: Vimeo
 sidebar_position: 18
 description: 从 Vimeo 下载视频 / 音频，最高支持原始画质，免费、无需注册。
+keywords: ["Vimeo视频下载", "Vimeo下载", "vimeo下载器", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 Vimeo 视频

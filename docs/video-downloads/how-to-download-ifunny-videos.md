@@ -3,6 +3,7 @@ title: 如何下载 iFunny 视频？
 sidebar_label: 下载 iFunny 视频
 sidebar_position: 2
 description: 两步轻松下载 iFunny 上的 meme 视频、GIF 和搞笑内容。
+keywords: ["下载iFunny视频", "iFunny meme下载", "iFunny GIF下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 如何下载 iFunny 视频？

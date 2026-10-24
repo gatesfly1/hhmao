@@ -5,11 +5,12 @@
   "description": "hhmao — 全网视频/图集下载文档站 (Docusaurus)",
   "scripts": {
     "start": "docusaurus start",
-    "build": "node gen-llms.js && docusaurus build",
-    "build:full": "node translate.js && node gen-llms.js && docusaurus build",
+    "build": "node gen-keywords.js && node gen-llms.js && docusaurus build",
+    "build:full": "node translate.js && node gen-keywords.js && node gen-llms.js && docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "translate": "node translate.js",
+    "keywords": "node gen-keywords.js",
     "llms": "node gen-llms.js"
   },
   "dependencies": {

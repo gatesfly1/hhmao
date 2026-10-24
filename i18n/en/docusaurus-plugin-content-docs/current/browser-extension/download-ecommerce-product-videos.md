@@ -3,6 +3,7 @@ title: How to download product videos from e-commerce sites
 sidebar_label: E-commerce product videos
 sidebar_position: 2
 description: Use the browser extension to grab product videos from JD, Taobao, Pinduoduo, Amazon and other e-commerce sites.
+keywords: ["e-commerce product video download", "Taobao product video", "Amazon product video download", "shopping site video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to download product videos from e-commerce sites

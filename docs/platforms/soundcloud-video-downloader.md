@@ -3,6 +3,7 @@ title: SoundCloud 下载
 sidebar_label: SoundCloud
 sidebar_position: 13
 description: 从 SoundCloud 下载音频 / 播放列表，最高支持原始音质，免费、无需注册。
+keywords: ["SoundCloud视频下载", "SoundCloud下载", "SoundCloud音乐下载", "soundcloud下载器", "SC音乐下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 SoundCloud 音频

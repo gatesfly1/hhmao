@@ -3,6 +3,7 @@ title: 安装哼哼猫浏览器插件
 sidebar_label: 安装插件
 sidebar_position: 1
 description: 在 Chrome、Edge、夸克、QQ 等浏览器中安装哼哼猫浏览器插件。
+keywords: ["安装浏览器插件", "Chrome插件安装", "Edge插件安装", "哼哼猫插件下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 安装哼哼猫浏览器插件

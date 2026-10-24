@@ -3,6 +3,7 @@ title: 如何录制 Twitch 的直播？
 sidebar_label: 录制 Twitch 直播
 sidebar_position: 1
 description: 使用哼哼猫实时录制 Twitch 直播内容，便于后续回看。
+keywords: ["录制Twitch直播", "Twitch直播录制", "Twitch直播回放下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 如何录制 Twitch 的直播？

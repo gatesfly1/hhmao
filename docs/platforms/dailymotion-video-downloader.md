@@ -3,6 +3,7 @@ title: Dailymotion 下载
 sidebar_label: Dailymotion
 sidebar_position: 3
 description: 从 Dailymotion 下载视频 / 音频，最高支持原始画质，免费、无需注册。
+keywords: ["Dailymotion视频下载", "Dailymotion下载", "dailymotion下载器", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 Dailymotion 视频

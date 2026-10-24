@@ -3,6 +3,7 @@ title: Download from Sora
 sidebar_label: Sora
 sidebar_position: 1
 description: Download videos, albums, and audio from Sora — original quality, free, no signup.
+keywords: ["Sora video download", "download from Sora", "Sora video downloader", "OpenAI Sora download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Sora

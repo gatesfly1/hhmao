@@ -1,5 +1,6 @@
 ---
 title: What are the common reasons extraction fails?
+keywords: ["download failed what to do", "extraction failure reasons", "video download error", "troubleshoot failed download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 8
 ---
 

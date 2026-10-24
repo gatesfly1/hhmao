@@ -3,6 +3,7 @@ title: Download from Bilibili
 sidebar_label: Bilibili
 sidebar_position: 1
 description: Download videos, albums, and audio from Bilibili — original quality, free, no signup.
+keywords: ["Bilibili video download", "download from Bilibili", "Bilibili video downloader", "B站 video download", "Bilibili audio extractor", "Bilibili cache download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Bilibili

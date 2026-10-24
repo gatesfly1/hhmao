@@ -3,6 +3,7 @@ title: Sora2 AI 视频去水印保存到本地（已停用）
 sidebar_label: Sora2 去水印（已停用）
 sidebar_position: 3
 description: 本功能已停用，OpenAI 已停止提供 Sora 2，本文仅作存档。
+keywords: ["Sora2去水印", "AI视频去水印保存", "Sora 2视频下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # Sora2 AI 视频去水印保存到本地

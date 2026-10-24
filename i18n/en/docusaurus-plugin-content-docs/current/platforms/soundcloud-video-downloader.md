@@ -3,6 +3,7 @@ title: Download from SoundCloud
 sidebar_label: SoundCloud
 sidebar_position: 1
 description: Download videos, albums, and audio from SoundCloud — original quality, free, no signup.
+keywords: ["SoundCloud video download", "download from SoundCloud", "SoundCloud music downloader", "SoundCloud mp3 download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from SoundCloud

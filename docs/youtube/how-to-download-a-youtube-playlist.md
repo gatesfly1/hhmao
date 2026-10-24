@@ -3,6 +3,7 @@ title: 如何下载 YouTube 播放列表
 sidebar_label: 下载 YouTube 播放列表
 sidebar_position: 3
 description: 使用桌面客户端批量下载 YouTube 播放列表中的所有视频。
+keywords: ["下载YouTube播放列表", "批量下载YouTube视频", "YouTube合集下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 如何下载 YouTube 播放列表

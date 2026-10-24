@@ -1,5 +1,6 @@
 ---
 title: Batch MD5 rewrite
+keywords: ["batch MD5 rewrite", "MD5 changer", "video deduplication", "file hash rewrite tool", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 3
 ---
 

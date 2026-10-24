@@ -3,6 +3,7 @@ title: Download YouTube videos with the Meowload browser extension
 sidebar_label: Extension for YouTube
 sidebar_position: 2
 description: Use the browser extension to bypass 403 errors and download age- and region-restricted YouTube videos.
+keywords: ["download YouTube with extension", "bypass 403 YouTube download", "age restricted video download", "geo blocked YouTube download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download YouTube videos with the Meowload browser extension

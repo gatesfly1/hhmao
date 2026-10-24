@@ -3,6 +3,7 @@ title: Download from Instagram
 sidebar_label: Instagram
 sidebar_position: 1
 description: Download videos, albums, and audio from Instagram — original quality, free, no signup.
+keywords: ["Instagram video download", "download from Instagram", "Instagram video downloader", "Instagram reels download", "Instagram photo downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Instagram

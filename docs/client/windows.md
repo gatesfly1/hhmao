@@ -1,5 +1,6 @@
 ---
 title: Windows 客户端
+keywords: ["Windows下载器", "Windows视频下载软件", "PC视频下载工具", "桌面客户端下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 sidebar_position: 1
 ---
 

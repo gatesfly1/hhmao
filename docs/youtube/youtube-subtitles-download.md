@@ -3,6 +3,7 @@ title: YouTube 字幕下载 - 支持多语言、多种字幕格式
 sidebar_label: YouTube 字幕下载
 sidebar_position: 1
 description: 两种方式下载 YouTube 字幕：桌面软件（SRT）与网页端（SRT/VTT/TTML/JSON3/SRV 等）。
+keywords: ["YouTube字幕下载", "SRT字幕下载", "VTT字幕下载", "多语言字幕下载", "TTML字幕下载", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # YouTube 字幕下载 - 支持多语言、多种字幕格式

@@ -1,5 +1,6 @@
 ---
 title: Can I extract albums and audio, not just videos?
+keywords: ["album download", "image gallery downloader", "background music extraction", "batch image download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 4
 ---
 

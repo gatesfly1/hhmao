@@ -3,6 +3,7 @@ title: Install the Meowload browser extension
 sidebar_label: Install extension
 sidebar_position: 1
 description: Install the Meowload browser extension in Chrome, Edge, Quark, QQ, and other browsers.
+keywords: ["install browser extension", "Chrome extension install", "Edge extension install", "Meowload extension download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Install the Meowload browser extension

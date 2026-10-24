@@ -3,6 +3,7 @@ title: Download from Weibo
 sidebar_label: Weibo
 sidebar_position: 1
 description: Download videos, albums, and audio from Weibo — original quality, free, no signup.
+keywords: ["Weibo video download", "download from Weibo", "Weibo video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Weibo

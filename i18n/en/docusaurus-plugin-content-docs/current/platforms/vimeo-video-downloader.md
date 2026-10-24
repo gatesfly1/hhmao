@@ -3,6 +3,7 @@ title: Download from Vimeo
 sidebar_label: Vimeo
 sidebar_position: 1
 description: Download videos, albums, and audio from Vimeo — original quality, free, no signup.
+keywords: ["Vimeo video download", "download from Vimeo", "Vimeo video downloader", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from Vimeo

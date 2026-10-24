@@ -3,6 +3,7 @@ title: Download from VK
 sidebar_label: VK
 sidebar_position: 1
 description: Download videos, albums, and audio from VK — original quality, free, no signup.
+keywords: ["VK video download", "download from VK", "VK video downloader", "VKontakte download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # Download videos & albums from VK

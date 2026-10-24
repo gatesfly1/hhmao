@@ -3,6 +3,7 @@ title: Pinterest 下载
 sidebar_label: Pinterest
 sidebar_position: 9
 description: 从 Pinterest 下载图集 / 视频，最高支持原始画质，免费、无需注册。
+keywords: ["Pinterest视频下载", "Pinterest下载", "Pinterest图片下载", "pinterest下载器", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 下载 Pinterest 图集 / 视频

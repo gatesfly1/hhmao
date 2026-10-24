@@ -1,5 +1,6 @@
 ---
 title: Do I need to install software or a browser extension?
+keywords: ["do I need to install anything", "no install required", "web based downloader", "browser download tool", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 sidebar_position: 2
 ---
 

@@ -3,6 +3,7 @@ title: How to record Twitch live streams?
 sidebar_label: Record Twitch
 sidebar_position: 1
 description: Use Meowload to record a Twitch live stream in real time so you can rewatch it later.
+keywords: ["record Twitch live stream", "Twitch live recording", "Twitch VOD download", "video downloader", "image downloader", "audio downloader", "watermark remover", "online downloader", "video download", "hhmao", "Meowload"]
 ---
 
 # How to record Twitch live streams?

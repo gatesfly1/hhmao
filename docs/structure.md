@@ -3,6 +3,7 @@ title: 网站结构说明
 sidebar_label: 网站结构
 sidebar_position: 100
 description: hhmao 文档站（hhmao-docs）的目录结构、配置入口、组件分层与多语言机制。
+keywords: ["网站结构说明", "文档站结构", "Docusaurus目录结构", "视频下载", "图集下载", "音频下载", "去水印", "下载器", "在线下载", "hhmao", "哼哼猫去水印"]
 ---
 
 # 网站结构说明
